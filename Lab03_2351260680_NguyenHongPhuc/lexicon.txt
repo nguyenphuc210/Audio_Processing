@@ -1,0 +1,3 @@
+# WORD PHONE_1 PHONE_2 ...
+# Add pronunciations from the instructor's phone inventory.
+# Do not invent Vietnamese phone sequences; whole-word HMMs do not require this file.

@@ -1,0 +1,6 @@
+﻿metric,DTW,HMM,notes
+accuracy,1.0,0.7,Same train/test split
+training_seconds,0.0,4.50484339997638,Template DTW has no iterative model fitting
+test_seconds_per_trial,0.15994508002186195,0.00684163001133129,Scoring time; excludes feature extraction
+top_confusion_pair,none,xuong->dong (2),Actual->predicted (count)
+alignment,warping path,Viterbi state path,

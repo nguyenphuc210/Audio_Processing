@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+librosa
+soundfile
+scikit-learn
+hmmlearn
+joblib
+python-docx

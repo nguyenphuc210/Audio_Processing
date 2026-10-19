@@ -1,0 +1,10 @@
+﻿experiment,n_states,feature_set,covariance_type,accuracy,train_seconds,test_seconds_per_trial,n_test,error
+hmm_5_dynamic_diag,5,dynamic,diag,0.7,4.50484339997638,0.00684163001133129,10,
+dtw_13_static,-,static,-,1.0,0.0,0.15994508002186195,10,
+states_3,3,dynamic,diag,0.2,1.3428911999799311,0.004906219989061355,10,
+states_5,5,dynamic,diag,0.7,4.50484339997638,0.00684163001133129,10,
+states_7,7,dynamic,diag,1.0,2.4811056000180542,0.006828769994899631,10,
+features_static,5,static,diag,1.0,1.3953951000003144,0.003736029996071011,10,
+features_dynamic,5,dynamic,diag,0.7,4.50484339997638,0.00684163001133129,10,
+covariance_diag,5,dynamic,diag,0.7,4.50484339997638,0.00684163001133129,10,
+covariance_full,5,dynamic,full,,,,10,"'covars' must be symmetric, positive-definite"
