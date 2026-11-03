@@ -1,3 +1,6 @@
 __pycache__/
 *.py[cod]
 Lab 4.pdf
+dataset.zip
+build_notebook.py
+generate_pdf_report.py
